@@ -9,4 +9,4 @@ On twilio console under 'Active Numbers' select the number you want to use and i
 
 Run your python app python app.py
 
-run ngrok http {PORT app.py is running on )
+run ngrok http {PORT app.py is running on}
